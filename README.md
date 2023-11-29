@@ -1,4 +1,4 @@
-[![MasterHead](https://avatars.githubusercontent.com/u/103616385?v=4)
+![MasterHead](https://avatars.githubusercontent.com/u/103616385?v=4)
 
 <h1 align="center">Hi 👋, I'm Ravan Babayev</h1>
 <h3 align="center">A passionate full stack web developer from Azerbaijan</h3>
