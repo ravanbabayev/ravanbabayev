@@ -19,6 +19,10 @@
 
 - 📄 Know about my experiences [https://ravan.dev](https://ravan.dev)
 
+----
+![My Discord](https://discord-readme-badge.vercel.app/api?id=852598960447029278)
+----
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
