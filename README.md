@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [epincms](https://epincms.com)
 
-- 🌱 I’m currently learning **golang**
+- 🌱 I’m currently learning [go](https://go.dev/)
 
 - 👨‍💻 All of my projects are available at [https://ravan.dev](https://ravan.dev)
 
