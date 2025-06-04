@@ -1,39 +1,24 @@
-<h1 align="center">Hi 👋, I'm Ravan Babayev</h1>
-<h3 align="center">software engineer</h3>
+# 👋 Hi, I'm Ravan Babayev
+**Software Engineer**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravanbabayev&label=Profile%20views&color=0e75b6&style=flat" alt="ravanbabayev" /> </p>
+I'm a software engineer who loves simplifying things and building useful products. With a strong focus on clarity and maintainability, I develop robust, scalable solutions using **Go**, **Laravel**, and **Next.js**.
 
-- 🔭 I’m currently working on [epincms](https://epincms.com)
+---
 
-- 🌱 I’m currently learning [go](https://go.dev/)
+## 🧠 Backend Development & System Architecture
+- **Go (Golang):** Building high-performance backend services and developer tools.
+- **PHP & Laravel:** Experience in finance and e-commerce projects.
+- **Docker & DevOps:** Skilled in containerization and DevOps workflows for reliable deployments.
 
-- 👨‍💻 All of my projects are available at [https://ravan.dev](https://ravan.dev)
-
-- 📝 I regularly write articles on [https://ravan.dev/blog](https://ravan.dev/blog)
-
-- 💬 Ask me about **php, laravel, nextjs, tailwindcss, javascript, nodejs, reactjs, alpinejs and socket.io**
-
-- 📫 How to reach me **me@ravan.dev**
-
-- 📄 Know about my experiences [https://ravan.dev](https://ravan.dev)
-
-----
-![My Discord](https://discord-readme-badge.vercel.app/api?id=852598960447029278)
-----
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 💻 Frontend & Modern Web Technologies
+- **JavaScript & TypeScript:** Proficient with React, Next.js, TailwindCSS, Alpine.js.
+- **Socket.io:** Real-time communication for interactive applications.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ravanbabayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ravanbabayev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ravanbabayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravanbabayev" height="30" width="40" /></a>
-<a href="https://codesandbox.com/ravanbabayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ravanbabayev" height="30" width="40" /></a>
 <a href="https://instagram.com/itsrvnb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravanbbyv" height="30" width="40" /></a>
-<a href="https://dribbble.com/ravanbabayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ravanbabayev" height="30" width="40" /></a>
-<a href="https://www.behance.net/ravanbabayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ravanbabayev" height="30" width="40" /></a>
-<a href="https://discord.gg/imdinar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="imdinar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
