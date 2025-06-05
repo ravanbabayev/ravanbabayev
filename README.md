@@ -14,6 +14,8 @@ I'm a software engineer who loves simplifying things and building useful product
 - **JavaScript & TypeScript:** Proficient with React, Next.js, TailwindCSS, Alpine.js.
 - **Socket.io:** Real-time communication for interactive applications.
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ravanbabayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ravanbabayev" height="30" width="40" /></a>
